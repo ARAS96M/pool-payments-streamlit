@@ -1,5 +1,6 @@
 streamlit==1.30.0
-sqlalchemy==1.4.56
+sqlalchemy==1.4.54
 pandas==2.0.3
 alembic==1.12.0   # optionnel si tu veux migrations
 python-dotenv==1.0.0
+
